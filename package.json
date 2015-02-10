@@ -1,7 +1,9 @@
 {
   "name": "testwiredep",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "grunt-gh-pages": "^0.9.1"
+  },
   "repository": {},
   "devDependencies": {
     "grunt": "^0.4.5",
