@@ -17,7 +17,7 @@
 
 	var _div = document.createElement('div');
 
-	getFetcheeWidgetTemplate('//zhrkian.github.io/test-project/scripts/fetchee-widget.html', function(result){
+	getFetcheeWidgetTemplate('//zhrkian.github.io/test-project/images/fetchee-widget.html', function(result){
 		if (result){
 
 			var fetchee_style = document.createElement('style');
